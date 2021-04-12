@@ -26,8 +26,12 @@ Det er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som
 
 ### **Ditt personvern – hvordan vi oppbevarer og bruker dine opplysninger** 
 Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler opplysningene konfidensielt og i samsvar med personvernregelverket.
-•	Hvem som får tilgang til prosjektet er: Student Jonas Tolås Omdal og Mathias Nygård Evensen, og veileder Devendra Bahadur Thapa ved Universitet i Agder.
-•	All datamateriale vil bli lagret inne på UiA sin OneDrive som underligger databehandleravtale. Disse mappene har adgangskontroll. Navn og andre detaljer blir byttet ut med kode som holdes adskilt på egen navneliste, adskilt fra andre data. Dette er også kontrollert under adgangskontroll i OneDrive. 
+Hvem som får tilgang til prosjektet er: 
+- Student Jonas Tolås Omdal
+- Student Mathias Nygård Evensen
+- Veileder Devendra Bahadur Thapa ved Universitet i Agder.
+
+All datamateriale vil bli lagret inne på UiA sin OneDrive som underligger databehandleravtale. Disse mappene har adgangskontroll. Navn og andre detaljer blir byttet ut med kode som holdes adskilt på egen navneliste, adskilt fra andre data. Dette er også kontrollert under adgangskontroll i OneDrive. 
 
 Dersom prosjektet publiseres, vil all informasjon om deltaker bli anonymisert.
 
