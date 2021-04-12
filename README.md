@@ -1,5 +1,5 @@
 # Dokumenter til Intervju
-Informasjonsskriv og Intervjuguide
+Informasjonsskriv og Intervjuguide ligger tilgjengelige som pdf.
 
 Prosjektet er en mastergradsavhandling hvor vi skal utforske mulige tiltak og løsninger til det voksende nettverket av IoT enheter i industriell sammenheng.
 
